@@ -1,1 +1,3 @@
 # FindingMinInArray
+
+Using Recursion
